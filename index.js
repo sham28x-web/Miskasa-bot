@@ -39,7 +39,7 @@ const replies = {
 
   hello: [
     "Hii daaa 😭🐤 Enna panra?",
-    "Heyyy da 😤 Naan inga dhaan iruken!",
+  
     "Hiiiii 😂❤️ Saptiya?",
     "Hello daaa 🐤 Welcome!",
     "Enna da sudden-ah vandhuta? 👀",
